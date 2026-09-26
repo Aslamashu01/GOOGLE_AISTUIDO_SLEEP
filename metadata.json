@@ -1,0 +1,6 @@
+{
+  "name": "Somna - Sleep Sanctuary & Insomnia Relief",
+  "description": "Personalized sleep triage, somatic eye and brain de-escalation exercises, guided deep rest meditation, and circadian sleep nutrition for rapid sleep onset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
